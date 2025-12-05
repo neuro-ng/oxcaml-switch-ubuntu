@@ -1,5 +1,6 @@
 # Minimal OxCaml that has only the switch create command Docker Image
-
+[![Build and Publish OxCaml Docker Image](https://github.com/neuro-ngoxcaml-switch-ubuntu/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/neuro-ng/oxcaml-switch-ubuntu/actions/workflows/docker-publish.yml)
+[![Docker Image](https://ghcr-badge.egpl.dev/neuro-ng/oxcaml-switch-ubuntu/latest_tag?trim=major&label=latest)](https://github.com/neuro-ng/oxcaml-switch-ubuntu/pkgs/container/oxcaml-switch-ubuntu)
 Intermediary Docker image for OxCaml development with just the essential compiler setup to fit the 360-minute timeout for Github Actions on a 4 vCPU. 
 
 ## 🔥 What is OxCaml?
